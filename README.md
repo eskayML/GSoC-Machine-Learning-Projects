@@ -22,3 +22,6 @@ Here I would be listing out some Organizations and Projects that deal with Machi
 
 - ### [Qdrant](https://summerofcode.withgoogle.com/programs/2023/organizations/qdrant)
 ![banner](https://summerofcode.withgoogle.com/media/org/qdrant/73jgnlygoyu6ibia-360.png)
+
+- ### [Tensorflow](https://summerofcode.withgoogle.com/programs/2023/organizations/tensorflow-d1)
+![banner](https://summerofcode.withgoogle.com/media/org/tensorflow-d1/0sqdbtssij0tfcwy-360.png)
