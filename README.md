@@ -16,3 +16,9 @@ Here I would be listing out some Organizations and Projects that deal with Machi
 
 - ### [ML Pack](https://summerofcode.withgoogle.com/programs/2023/organizations/mlpack)
 ![banner](https://summerofcode.withgoogle.com/media/org/mlpack/gs9xn22l8vefyvhh-360.png)
+
+- ### [ML 4 Sci](https://summerofcode.withgoogle.com/programs/2023/organizations/machine-learning-for-science-ml4sci)
+![banner](https://summerofcode.withgoogle.com/media/org/machine-learning-for-science-ml4sci/rs5cxhuyh9dpwekt-360.png)
+
+- ### [Qdrant](https://summerofcode.withgoogle.com/programs/2023/organizations/qdrant)
+![banner](https://summerofcode.withgoogle.com/media/org/qdrant/73jgnlygoyu6ibia-360.png)
