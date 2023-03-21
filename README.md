@@ -13,3 +13,6 @@ Here I would be listing out some Organizations and Projects that deal with Machi
 
 - ### [Open Vino](https://summerofcode.withgoogle.com/programs/2023/organizations/openvino-toolkit)
 ![banner](https://summerofcode.withgoogle.com/media/org/openvino-toolkit/ivzvok335ujezk2z-360.png)
+
+- ### [ML Pack](https://summerofcode.withgoogle.com/programs/2023/organizations/mlpack)
+![banner](https://summerofcode.withgoogle.com/media/org/mlpack/gs9xn22l8vefyvhh-360.png)
