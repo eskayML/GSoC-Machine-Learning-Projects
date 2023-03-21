@@ -10,3 +10,6 @@ Here I would be listing out some Organizations and Projects that deal with Machi
 - ### [OpenCV](https://summerofcode.withgoogle.com/programs/2023/organizations/opencv)
 
 ![CV img](https://summerofcode.withgoogle.com/media/org/opencv/fmh9fnybaz97kodm-360.png)
+
+- ### [Open Vino](https://summerofcode.withgoogle.com/programs/2023/organizations/openvino-toolkit)
+![banner](https://summerofcode.withgoogle.com/media/org/openvino-toolkit/ivzvok335ujezk2z-360.png)
