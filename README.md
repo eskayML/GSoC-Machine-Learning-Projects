@@ -43,5 +43,6 @@ Here I would be listing out some Organizations and Projects that deal with Machi
 ![banner](https://summerofcode.withgoogle.com/media/org/tensorflow-d1/0sqdbtssij0tfcwy-360.png)
 
 
-<br>
+
+PS:
 **There are over 170 organizations partnering for this year's GSoC, there will definitely more than these few companies that are doing ML, feel free to make a PR ☺️**
